@@ -1,7 +1,7 @@
 
 
 # Keidaron # 
-I'm Björn from germany, 23 Years old and loving to create stuff - code or model.
+I'm Björn from germany, 24 Years old and loving to create stuff - code or model.
 
 ## Skills & Programms ##
 - 3D Low Poly Modelling with Blender [Intermediate]
@@ -9,7 +9,7 @@ I'm Björn from germany, 23 Years old and loving to create stuff - code or model
 - Blueprint/C++ programming with Unreal Engine [Beginner]
 
 ## Current Projects ##
-- World Mesher @ [History of Khorinis](https://discord.gg/EngNfZr4QH)
+- World & Item Mesher @ [History of Khorinis](https://discord.gg/EngNfZr4QH)
 - Project Lead & Programmer @ Project Calamity
 - Always looking for more
 
