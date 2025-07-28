@@ -21,7 +21,7 @@ In an Age where AI is present, creativity and skills are thrown away, some of us
 
 
 ## Former Projects ##
-- World Mesher at [Gothic Online - Untold Chapters](https://gouc.de/gothic-online-untold-chapters/)
+- World Mesher at [Gothic Online - Untold Chapters](https://forum.gouc.de/)
 
 <!-- ## Some of my Work ##
 
