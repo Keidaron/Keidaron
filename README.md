@@ -2,6 +2,7 @@
 
 # Keidaron # 
 I'm Björn from germany, 24 Years old and loving to create stuff - code or model.
+In an Age where AI is present, creativity and skills are thrown away, some of us still hold dear to what gives us joy and gives us worth.
 
 ## Skills & Programms ##
 - 3D Low Poly Modelling with Blender [Intermediate]
